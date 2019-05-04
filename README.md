@@ -1,2 +1,4 @@
-# tokenator
-Program (React frontend and Java backend) to get an Okta token and then parse and display the token
+# Tokenator
+
+Program (React frontend and Java Spring Boot backend) to get an Okta token and then parse and display the token
+

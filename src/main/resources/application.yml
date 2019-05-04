@@ -1,0 +1,17 @@
+spring:
+    application:
+        name: tokenator
+
+management:
+    endpoint:
+        health:
+            show-details: ALWAYS
+        metrics:
+            enabled: true
+    endpoints:
+        web:
+            exposure:
+                include: "*"
+
+server:
+    port: 8060
